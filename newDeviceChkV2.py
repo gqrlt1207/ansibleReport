@@ -716,4 +716,4 @@ eFile.close()
 
 att=['/export/home/RIMusers/bgao/reports/testDevice'+str(curTT)+'.xlsx']
 #sendEmailV2.sendEmail(subj,efile,att,"bill.gao@compucom.com")
-sendEmail.sendEmail(subj,efile,att,"bill.gao@compucom.com","Camilo.Leite@compucom.com","dilvan.karunaratne@compucom.com","Kevin.Zhao@compucom.com","Forth.Kuo@compucom.com","luis.vegavelarde@compucom.com","Andre.Kottier@compucom.com","Uriel.Caballero@compucom.com","Fernando.Garcia@compucom.com","Matthew.Riding@compucom.com","Chad.Cable@compucom.com","Jon.Carr@compucom.com","Juan.Abundis@compucom.com","Horacio.Chavez@compucom.com")
+sendEmail.sendEmail(subj,efile,att,"...")
